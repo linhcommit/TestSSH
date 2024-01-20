@@ -1,1 +1,1 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDqmcZqwKANsxknJAjw/+yanQT8Fn/Je4roXdq9n+nP/ linhhilarious@gmail.com
+ssh-ed25519 linhhilarious@gmail.com
